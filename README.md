@@ -2,6 +2,11 @@
 
 NotesApp is a note-taking application that allows users to create, edit, and delete their notes. This application uses Flutter local storage with sqflite to store and retrieve note data locally on the device.
 
+## Profil
+
+- **Name**: Mochammad Agus Dharma Kilin
+- **NIM**: 2106015
+
 ## Features
 
 - **Create New Note**: Users can create new notes with a title and content.
